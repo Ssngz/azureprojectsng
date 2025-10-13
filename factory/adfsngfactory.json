@@ -1,0 +1,9 @@
+{
+	"name": "adfsngfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6c15669f-73bf-433b-bf2e-5df68290d7f6",
+		"tenantId": "b5d6cd8d-8aa8-46cc-a78a-7d12dfc26872"
+	}
+}
